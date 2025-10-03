@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.31)
+cmake_minimum_required(VERSION 3.10)
 project(prog2_matrices_2025_1_lab203)
 
 set(CMAKE_CXX_STANDARD 20)
